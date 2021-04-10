@@ -5,3 +5,6 @@ You can read more about the method:
 - http://royfeatherstone.org/spatial/v2/
 - the book Rigid Body Dynamics Algorithms (RBDA)
 - Springer Handbook of Robotics
+
+![alt text](Algorithm.png "Coordinate-free recursive Newton–
+Euler algorithm (RNEA) for inverse dynamics")
