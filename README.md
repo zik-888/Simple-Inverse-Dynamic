@@ -8,4 +8,4 @@ You can read more about the method:
 
 ![alt text](Algorithm.png "Coordinate-free recursive Newton–
 Euler algorithm (RNEA) for inverse dynamics")
-![Иллюстрация к проекту](httAlgorithm.png)
+![Иллюстрация к проекту](https://github.com/zik-888/Simple-Inverse-Dynamic/blob/main/Algorithm.PNG)
