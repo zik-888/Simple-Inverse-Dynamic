@@ -6,6 +6,5 @@ You can read more about the method:
 - the book Rigid Body Dynamics Algorithms (RBDA)
 - Springer Handbook of Robotics
 
-![alt text](Algorithm.png "Coordinate-free recursive Newton–
+![Algorithm](https://github.com/zik-888/Simple-Inverse-Dynamic/blob/main/Algorithm.PNG "Coordinate-free recursive Newton–
 Euler algorithm (RNEA) for inverse dynamics")
-![Иллюстрация к проекту](https://github.com/zik-888/Simple-Inverse-Dynamic/blob/main/Algorithm.PNG)
